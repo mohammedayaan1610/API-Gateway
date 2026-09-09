@@ -1,5 +1,4 @@
 [README.md](https://github.com/user-attachments/files/31995199/README.md)
-# API-Gateway
 # API Gateway
 
 A production-style API Gateway built with **FastAPI**, designed to provide a secure, resilient, and observable entry point for backend microservices.
